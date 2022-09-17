@@ -22,6 +22,21 @@ Tested and found working:
 - WIFI and Bluetooth 
 - Internal Network Card
 
-Note: USBPorts.kext should be configured on target system to fit desired USB port map.
-https://www.tonymacx86.com/threads/the-new-beginners-guide-to-usb-port-configuration.286553/#post-2029768
+Note: USBPorts.kext should be configured on target system to fit desired USB port map. See: Making own USB port map guide below.
+
+
+Tools used:
+[Opencore](https://dortania.github.io/OpenCore-Install-Guide/) 
+[ProperTree](https://github.com/corpnewt/ProperTree)
+[OpenCore Configurator](https://mackie100projects.altervista.org/download-opencore-configurator/)
+[Hackintool](https://github.com/headkaze/Hackintool)
+[SSDTTime](https://github.com/corpnewt/SSDTTime)
+[GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
+
+Guides:
+[Custom SSDT's with SSDTTime](https://www.tonymacx86.com/threads/custom-ssdts-using-corpnewts-ssdttime.318976/)
+[Making own USB port map](https://www.tonymacx86.com/threads/the-new-beginners-guide-to-usb-port-configuration.286553/#post-2029768)
+[How to Map your USB Ports on macOS](https://elitemacx86.com/threads/how-to-map-your-usb-ports-on-macos.581/)
+[Intel UHD 630 iGPU configuration](https://www.tonymacx86.com/threads/guide-intel-uhd-graphics-630-coffee-lake-headless-mode-main-card.304000/) for system running only iGPU
+
 

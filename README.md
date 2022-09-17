@@ -15,3 +15,13 @@ Working Hackintosh configuration running MacOS Monterey 12.6
 ![11download](https://user-images.githubusercontent.com/7040503/190868987-2ca863c3-1b9b-4d1f-b69e-75f746fb3b90.png)
 
 
+Tested and found working:
+- Boot into MacOS 12.6
+- Sleep Wake up from bluetooth mouse or keyboard
+- iGPU hardware acceleration
+- WIFI and Bluetooth 
+- Internal Network Card
+
+Note: USBPorts.kext should be configured on target system to fit desired USB port map.
+https://www.tonymacx86.com/threads/the-new-beginners-guide-to-usb-port-configuration.286553/#post-2029768
+

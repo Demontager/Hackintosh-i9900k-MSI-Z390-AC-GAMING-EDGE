@@ -7,7 +7,7 @@ Working Hackintosh configuration running MacOS Monterey 12.6
 - RAM: 64GB 4xKHX3000C15/16GX Kingston DDR4
 - Storage: Samsung 970 EVO M.2 512GB  
 - iGPU: Intel UHD 630  
-- WIFI/BT: Canon Lake PCH CNVi WiFi
+- WIFI/BT: Canon Lake PCH CNVi WiFi (Internal)
 - SMIBIOS iMac19,1
 - OpenCore 0.8.4 RELEASE
 

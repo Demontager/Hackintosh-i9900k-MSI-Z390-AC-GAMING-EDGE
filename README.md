@@ -22,8 +22,8 @@ Tested and found working:
 - WIFI and Bluetooth 
 - Internal Network Card
 
-- Very importan note: Motherboard BIOS has no CFG setting and by default they locked this won't allow to MacOS to boot at very early stage. To unlock it, enable these options in config.plist Kernel -> AppleCpuPmCfgLock YES and AppleXcpCfgLock YES 
-- Note: USBPorts.kext should be configured on target system to fit desired USB port map. See: Making own USB port map guide below.
+Very importan note: Motherboard BIOS has no CFG setting and by default they locked this won't allow to MacOS to boot at very early stage. To unlock it, enable these options in config.plist Kernel -> AppleCpuPmCfgLock YES and AppleXcpCfgLock YES 
+Note: USBPorts.kext should be configured on target system to fit desired USB port map. See: Making own USB port map guide below.
 
 
 

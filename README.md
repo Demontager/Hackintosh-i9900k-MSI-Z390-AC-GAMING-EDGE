@@ -25,7 +25,7 @@ Working Hackintosh configuration running MacOS Monterey 12.6
 - Internal Network Card
 
 
-Very importan note: Motherboard BIOS has no CFG settings and they are locked by default, this won't allow to MacOS to boot at very early stage. To unlock it, enable these options in config.plist Kernel -> AppleCpuPmCfgLock YES and AppleXcpCfgLock YES 
+Very importan note: Motherboard BIOS has no CFG settings and they are locked by default, this won't allow to MacOS to boot at very early stage. To unlock enable these options in config.plist Kernel -> AppleCpuPmCfgLock YES and AppleXcpCfgLock YES 
 
 
 Note: USBPorts.kext should be configured on target system to fit desired USB ports map. See: Making own USB port map guides below.

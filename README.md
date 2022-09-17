@@ -26,12 +26,12 @@ Note: USBPorts.kext should be configured on target system to fit desired USB por
 
 
 Tools used:
-[Opencore](https://dortania.github.io/OpenCore-Install-Guide/) 
-[ProperTree](https://github.com/corpnewt/ProperTree)
-[OpenCore Configurator](https://mackie100projects.altervista.org/download-opencore-configurator/)
-[Hackintool](https://github.com/headkaze/Hackintool)
-[SSDTTime](https://github.com/corpnewt/SSDTTime)
-[GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
+- [Opencore](https://dortania.github.io/OpenCore-Install-Guide/) 
+- [ProperTree](https://github.com/corpnewt/ProperTree)
+- [OpenCore Configurator](https://mackie100projects.altervista.org/download-opencore-configurator/)
+- [Hackintool](https://github.com/headkaze/Hackintool)
+- [SSDTTime](https://github.com/corpnewt/SSDTTime)
+- [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
 
 Guides:
 [Custom SSDT's with SSDTTime](https://www.tonymacx86.com/threads/custom-ssdts-using-corpnewts-ssdttime.318976/)

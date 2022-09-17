@@ -15,7 +15,7 @@ Working Hackintosh configuration running MacOS Monterey 12.6
 ![11download](https://user-images.githubusercontent.com/7040503/190868987-2ca863c3-1b9b-4d1f-b69e-75f746fb3b90.png)
 
 
-Tested and found working:
+## Tested and found working:
 - Boot into MacOS 12.6
 - Sleep Wake up from bluetooth mouse or keyboard
 - iGPU hardware acceleration
@@ -29,7 +29,7 @@ Note: USBPorts.kext should be configured on target system to fit desired USB por
 
 
 
-Tools used:
+## Tools used:
 - [Opencore](https://dortania.github.io/OpenCore-Install-Guide/) 
 - [ProperTree](https://github.com/corpnewt/ProperTree)
 - [OpenCore Configurator](https://mackie100projects.altervista.org/download-opencore-configurator/)
@@ -37,7 +37,7 @@ Tools used:
 - [SSDTTime](https://github.com/corpnewt/SSDTTime)
 - [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
 
-Guides:
+## Guides:
 - [Custom SSDT's with SSDTTime](https://www.tonymacx86.com/threads/custom-ssdts-using-corpnewts-ssdttime.318976/)
 - [Making own USB port map](https://www.tonymacx86.com/threads/the-new-beginners-guide-to-usb-port-configuration.286553/#post-2029768)
 - [How to Map your USB Ports on macOS](https://elitemacx86.com/threads/how-to-map-your-usb-ports-on-macos.581/)

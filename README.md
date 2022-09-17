@@ -3,7 +3,7 @@
 Working Hackintosh configuration running MacOS Monterey 12.6
 
 - Motherboard: MSI-Z390-AC-GAMING-EDGE (MS-7B50) Bios ver. 7B50v1C2
-- CPU: i9-9900K  
+- CPU: Intel i9-9900K Coffee Lake  
 - RAM: 64GB 4xKHX3000C15/16GX Kingston DDR4
 - Storage: Samsung 970 EVO M.2 512MB  
 - iGPU: Intel UHD 630  
@@ -17,10 +17,13 @@ Working Hackintosh configuration running MacOS Monterey 12.6
 
 ## Tested and found working:
 - Boot into MacOS 12.6
+- Display Port output
+- Internal Audio Realtek ALCS1220A
 - Sleep Wake up from bluetooth mouse or keyboard
 - iGPU hardware acceleration
 - WIFI and Bluetooth 
 - Internal Network Card
+
 
 Very importan note: Motherboard BIOS has no CFG settings and they are locked by default, this won't allow to MacOS to boot at very early stage. To unlock it, enable these options in config.plist Kernel -> AppleCpuPmCfgLock YES and AppleXcpCfgLock YES 
 

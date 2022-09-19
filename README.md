@@ -25,16 +25,16 @@ Working Hackintosh configuration running MacOS Monterey 12.6
 - Internal Network Card
 
 ## BIOS SETTINGS
-USB Configuration
+###### USB Configuration
 - USB Controller [Enabled]
 - AXHCI Hand-off [Enabled]
 - Legacy USB Support [Enabled]
 
-## Integrated Graphics Configuration
+###### Integrated Graphics Configuration
 - Initiate Graphic Adapter [IGD]
 - Integrated Graphics Share memory [64MB]
 
-## PCIe/PCI Sub-system Settings
+###### PCIe/PCI Sub-system Settings
 - Above 4G memory/Crypto Currency mining [Enabled]
 
 

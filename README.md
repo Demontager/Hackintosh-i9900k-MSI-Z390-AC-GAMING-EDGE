@@ -31,13 +31,12 @@ USB Configuration
 - Legacy USB Support [Enabled]
 
 ## Integrated Graphics Configuration
-Initiate Graphic Adapter [IGD]
-Integrated Graphics Share memory [64MB]
+- Initiate Graphic Adapter [IGD]
+- Integrated Graphics Share memory [64MB]
 
 ## PCIe/PCI Sub-system Settings
---
 - Above 4G memory/Crypto Currency mining [Enabled]
---
+
 
 Very importan note: Motherboard BIOS has no CFG settings and they are locked by default, this won't allow MacOS to boot at very early stage. To unlock enable these options edit config.plist and set Kernel -> AppleCpuPmCfgLock YES and AppleXcpCfgLock YES 
 

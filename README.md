@@ -27,7 +27,7 @@ Working Hackintosh configuration running MacOS Monterey 12.6
 ## BIOS SETTINGS
 ###### USB Configuration
 - USB Controller [Enabled]
-- AXHCI Hand-off [Enabled]
+- XHCI Hand-off [Enabled]
 - Legacy USB Support [Enabled]
 
 ###### Integrated Graphics Configuration
